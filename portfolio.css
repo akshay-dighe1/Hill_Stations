@@ -1,0 +1,13 @@
+#curri .list{
+    display: inline-block;
+   list-style-type: none;
+  
+    padding: 70px;
+    
+}
+#curri list a{
+    text-decoration: none;
+    color: blueviolet;
+    display: inline-block;
+
+}
